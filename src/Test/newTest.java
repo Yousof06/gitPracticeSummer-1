@@ -1,7 +1,8 @@
-package Test.l;
+package Test;
 
-public class newClass {
+public class newTest {
     public static void main(String[] args) {
         System.out.println("Hello");
+        //hello
     }
 }
