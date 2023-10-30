@@ -3,10 +3,7 @@ package Test;
 public class test {
     public static void main(String[] args) {
 
-        //this is a test
-        // this is second change
-
-
+        //hello  hakim
 
         System.out.println("Hello");
     }
