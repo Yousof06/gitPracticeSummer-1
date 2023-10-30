@@ -3,8 +3,8 @@ package Test;
 public class test {
     public static void main(String[] args) {
 
-        //hello  yusuf
+        //hello  yakup
 
-        System.out.println("hellooooooooooo");
+        System.out.println("hello");
     }
 }
